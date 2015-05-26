@@ -1,0 +1,65 @@
+{
+    "name": "KirenSample1",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "5.1.2.52",
+            "frameworkVersion": "5.1.0.107"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "Auto Expand",
+                "builtIn": true,
+                "height": null,
+                "width": null
+            }
+        },
+        "urlPrefix": "http://localhost:1841",
+        "exportPath": "",
+        "lockUrlPrefix": true,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "spacesToIndent": 4,
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "installStatus": "Not Installed",
+        "sdkPath": "",
+        "projectHasEnabledWebServer": true
+    },
+    "xdsVersion": "3.2.0",
+    "xdsBuild": 75,
+    "schemaVersion": 1,
+    "upgradeVersion": 310000000001,
+    "framework": "ext51",
+    "viewOrderMap": {
+        "view": [
+            "ca484db8-a38d-4421-83ef-5bbfd8be12f5",
+            "9facb887-970e-4347-aa23-1c6cd39f6ba2",
+            "cf8a246f-49cf-4488-b6aa-0daa98337f77",
+            "3e978d00-8dfc-4c52-b787-9ba639ea91f1",
+            "793f022b-e76f-449c-bbcb-dc61cef01a03",
+            "165243e7-982d-4a55-85bc-d5d7ccf9a915"
+        ],
+        "store": [
+            "c03990e1-8b43-4f3d-9e8f-91fbb94c9adf",
+            "1654ec72-751a-4d4e-8b0a-80dbe9f6ef69"
+        ],
+        "controller": [
+            "3acc72d0-3a3f-4e9d-bcc7-3be1eb4fc98e"
+        ],
+        "model": [
+            "75358848-7c94-4540-90de-eec0ec1811d7",
+            "7b021745-2243-4e0f-973a-3c25c2870374",
+            "752df0b3-f7f9-4747-be84-e7667a7ad754"
+        ],
+        "resource": [
+            "995478dd-7e07-48ad-9dbf-42e167887795",
+            "7851fb3f-5f81-4c39-96e8-656647636caa",
+            "229acd24-5f38-40d8-850e-b23b0e96a5d1"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

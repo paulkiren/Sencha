@@ -1,0 +1,44 @@
+{
+    "type": "Ext.app.ViewModel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userAlias": "mymodels",
+        "designer|userClassName": "MyModelsViewModel"
+    },
+    "designerId": "793f022b-e76f-449c-bbcb-dc61cef01a03",
+    "cn": [
+        {
+            "type": "Ext.data.Store",
+            "reference": {
+                "name": "stores",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "data": [
+                    "[{\"Text\":\"aut\",\"myField2\":\"dolorem\",\"myField3\":\"doloribus\",\"myField4\":\"aut\"},{\"Text\":\"tempora\",\"myField2\":\"consequatur\",\"myField3\":\"quas\",\"myField4\":\"blanditiis\"},{\"Text\":\"et\",\"myField2\":\"provident\",\"myField3\":\"aut\",\"myField4\":\"qui\"},{\"Text\":\"veniam\",\"myField2\":\"iure\",\"myField3\":\"facere\",\"myField4\":\"laudantium\"},{\"Text\":\"adipisci\",\"myField2\":\"ipsa\",\"myField3\":\"cumque\",\"myField4\":\"dolor\"},{\"Text\":\"nostrum\",\"myField2\":\"ut\",\"myField3\":\"itaque\",\"myField4\":\"consectetur\"},{\"Text\":\"corporis\",\"myField2\":\"veniam\",\"myField3\":\"velit\",\"myField4\":\"omnis\"},{\"Text\":\"quis\",\"myField2\":\"cumque\",\"myField3\":\"minus\",\"myField4\":\"inventore\"},{\"Text\":\"nostrum\",\"myField2\":\"molestias\",\"myField3\":\"quam\",\"myField4\":\"et\"},{\"Text\":\"vel\",\"myField2\":\"harum\",\"myField3\":\"facere\",\"myField4\":\"consequatur\"},{\"Text\":\"eum\",\"myField2\":\"nobis\",\"myField3\":\"perspiciatis\",\"myField4\":\"qui\"},{\"Text\":\"eaque\",\"myField2\":\"adipisci\",\"myField3\":\"dolores\",\"myField4\":\"quas\"},{\"Text\":\"sint\",\"myField2\":\"dolorem\",\"myField3\":\"veritatis\",\"myField4\":\"animi\"},{\"Text\":\"repudiandae\",\"myField2\":\"consequatur\",\"myField3\":\"hic\",\"myField4\":\"fugit\"},{\"Text\":\"voluptas\",\"myField2\":\"laboriosam\",\"myField3\":\"ut\",\"myField4\":\"aut\"},{\"Text\":\"unde\",\"myField2\":\"praesentium\",\"myField3\":\"qui\",\"myField4\":\"ab\"},{\"Text\":\"voluptatibus\",\"myField2\":\"quo\",\"myField3\":\"est\",\"myField4\":\"minus\"},{\"Text\":\"eius\",\"myField2\":\"laudantium\",\"myField3\":\"vel\",\"myField4\":\"id\"},{\"Text\":\"aut\",\"myField2\":\"nam\",\"myField3\":\"repudiandae\",\"myField4\":\"fugit\"},{\"Text\":\"et\",\"myField2\":\"consectetur\",\"myField3\":\"explicabo\",\"myField4\":\"in\"},{\"Text\":\"expedita\",\"myField2\":\"et\",\"myField3\":\"omnis\",\"myField4\":\"numquam\"},{\"Text\":\"consequuntur\",\"myField2\":\"similique\",\"myField3\":\"quo\",\"myField4\":\"placeat\"},{\"Text\":\"odio\",\"myField2\":\"sed\",\"myField3\":\"et\",\"myField4\":\"eveniet\"},{\"Text\":\"nam\",\"myField2\":\"quod\",\"myField3\":\"eos\",\"myField4\":\"quo\"},{\"Text\":\"illum\",\"myField2\":\"architecto\",\"myField3\":\"et\",\"myField4\":\"optio\"},{\"Text\":\"deleniti\",\"myField2\":\"sed\",\"myField3\":\"consequuntur\",\"myField4\":\"molestiae\"},{\"Text\":\"tempore\",\"myField2\":\"in\",\"myField3\":\"autem\",\"myField4\":\"sunt\"},{\"Text\":\"sint\",\"myField2\":\"aut\",\"myField3\":\"autem\",\"myField4\":\"qui\"},{\"Text\":\"ad\",\"myField2\":\"qui\",\"myField3\":\"eligendi\",\"myField4\":\"exercitationem\"},{\"Text\":\"voluptates\",\"myField2\":\"est\",\"myField3\":\"quasi\",\"myField4\":\"ab\"}]"
+                ],
+                "model": "MyModel",
+                "name": "myModels"
+            },
+            "name": "myModels",
+            "designerId": "a85cdd9d-d353-4739-bdac-7f893552bea1",
+            "cn": [
+                {
+                    "type": "Ext.data.proxy.Memory",
+                    "reference": {
+                        "name": "proxy",
+                        "type": "object"
+                    },
+                    "codeClass": null,
+                    "name": "MyMemoryProxy",
+                    "designerId": "35f56f81-b98a-4fa1-bdbe-f237aa9b349d"
+                }
+            ]
+        }
+    ]
+}

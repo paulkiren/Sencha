@@ -1,0 +1,25 @@
+{
+    "type": "Ext.app.Controller",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "MyController"
+    },
+    "name": "MyController",
+    "designerId": "3acc72d0-3a3f-4e9d-bcc7-3be1eb4fc98e",
+    "cn": [
+        {
+            "type": "staticfunction",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "name": "MyFunction1",
+            "designerId": "c6949686-1ee4-41da-9e12-5067a257cc70"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+.sencha/
+build/
+ext/
+metadata/
+packages/
+.architect
